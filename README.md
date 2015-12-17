@@ -1,2 +1,2 @@
 # miniature-adventure
-print ("hello world")
+print("hello world")
